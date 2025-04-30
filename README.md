@@ -2,6 +2,7 @@
 
 
 🧠 Análisis de Datos Exploratorio con Python | Visualización de KPIs Clave
+
 Este proyecto presenta un análisis de datos completo y detallado, desarrollado íntegramente en Python, donde se aplican técnicas de ciencia de datos para descubrir patrones, tendencias y oportunidades ocultas en la información.
 
 🔍 ¿Qué encontrarás en este repositorio?
